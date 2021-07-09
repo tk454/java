@@ -10,6 +10,8 @@ public class MainKusaka {
 //				System.out.println("次は、札幌です。");
 				System.out.println("柚木");
 
+		System.out.println("日下拓巳");
+
 
 	}
 }
